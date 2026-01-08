@@ -2,6 +2,7 @@
 
 <br>
 
+- 08/01 - Assistido módulo de **[Fundamentos CSS]()** - Conhecendo o CSS, Box model
 - 07/01 - Assistido módulo de **[Fundamentos HTML]()** - Elementos estruturais, Caminhos absolutos e relativos
 - 06/01 - Assistido módulo de **[Fundamentos HTML]()** - Primeiros passos, Atributos, Elementos do conteúdo
 - 05/01 - Assistido módulo de **[Git e Github]()**
