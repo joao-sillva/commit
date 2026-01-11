@@ -2,6 +2,7 @@
 
 <br>
 
+- 11/01 - Desenvolvido desafio **[Local turístico](https://github.com/joao-sillva/local-turistico)**
 - 10/01 - Desenvolvido projeto **[Página de receita](https://github.com/joao-sillva/pagina-de-receita)**
 - 09/01 - Assistido módulo de **[Fundamentos CSS]()** - Fontes e textos, Cores e fundos
 - 08/01 - Assistido módulo de **[Fundamentos CSS]()** - Conhecendo o CSS, Box model
