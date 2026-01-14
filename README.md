@@ -2,6 +2,7 @@
 
 <br>
 
+- 13/01 - Desenvolvido projeto **[Móveis customizados](https://github.com/joao-sillva/moveis-customizados)**
 - 12/01 - Assistido módulo de **[Stage 02 - Introdução ao HTML e CSS]()**
 - 11/01 - Desenvolvido desafio **[Local turístico](https://github.com/joao-sillva/local-turistico)**
 - 10/01 - Desenvolvido projeto **[Página de receita](https://github.com/joao-sillva/pagina-de-receita)**
