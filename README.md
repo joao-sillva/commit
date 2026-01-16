@@ -2,6 +2,7 @@
 
 <br>
 
+- 16/01 - Desenvolvido projeto **[Treine.me](https://github.com/joao-sillva/treine-me)**
 - 15/01 - Assistido módulo de **[Stage 02 - Introdução ao HTML e CSS]()** - Conhecendo novos conceitos
 - 14/01 - Desenvolvido desafio **[Flutuar](https://github.com/joao-sillva/flutuar)**
 - 13/01 - Desenvolvido projeto **[Móveis customizados](https://github.com/joao-sillva/moveis-customizados)**
